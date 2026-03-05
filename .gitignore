@@ -1,0 +1,68 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# -------------------------
+# Virtual Environment
+# -------------------------
+.venv/
+.conda/
+*.env
+
+# -------------------------
+# Jupyter Notebook
+# -------------------------
+.ipynb_checkpoints
+
+# -------------------------
+# Model & Cache Files
+# -------------------------
+*.pt
+*.pth
+*.bin
+*.ckpt
+
+# HuggingFace cache
+.cache/
+huggingface/
+~/.cache/huggingface/
+
+# -------------------------
+# Gradio / Output Files
+# -------------------------
+output.mp3
+*.wav
+*.mp3
+
+# -------------------------
+# Logs
+# -------------------------
+*.log
+
+# -------------------------
+# OS Files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# IDE
+# -------------------------
+.vscode/
+.idea/
+
+# -------------------------
+# Temporary files
+# -------------------------
+*.tmp
+*.temp
