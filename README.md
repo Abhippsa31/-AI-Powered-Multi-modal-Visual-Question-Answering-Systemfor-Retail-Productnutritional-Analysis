@@ -1,4 +1,4 @@
-# VISUAL-QUESTION-ANSWERING-FOR-RETAIL-AND-E-COMMERCE-SUPPORT
+#  AI-Powered Multi-modal Visual Question Answering Systemfor Retail Productnutritional Analysis
 
 An AI-powered computer vision system that analyzes packaged food products using image captioning, OCR, and visual question answering (VQA).  
 
