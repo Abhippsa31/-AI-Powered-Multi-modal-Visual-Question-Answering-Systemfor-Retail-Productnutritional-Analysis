@@ -1,7 +1,11 @@
-torch
-transformers
-gradio
+flask
 Pillow
-gTTS
-easyocr
+requests
+google-genai
 numpy
+opencv-python
+pytesseract
+pyttsx3
+transformers
+torch
+python-dotenv
